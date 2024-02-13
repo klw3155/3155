@@ -66,7 +66,7 @@ CETV-4职业教育,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch0000009099
 延边卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 厦门卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-港澳台「P」,#genre#
+港澳台,#genre#
 香港国际财经,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 HOY 资讯台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
