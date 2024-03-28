@@ -215,4 +215,70 @@ NewTV超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.c
 咪咕直播-41,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 咪咕直播-42,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 
+123_18,#genre#
+HUSTLER HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121527
+REDLIGHT HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121528
+PRIVATE TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121529
+DORCEL HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121530
+DORCEL XXX  HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121531
+VIVID RED HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121532
+VIXEN HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121533
+EROX XXX  HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121534
+PENTHOUSE QUICKIES HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121535
+SUPER ONE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121536
+BABES TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121537
+XY PLUS HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121538
+XY MAX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121539
+XY MIX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121540
+VIVID TV EUROPE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121541
+VIVID TOUCH HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121542
+DUSK! HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121543
+HUSTLER TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121544
+XXL HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121545
+PASSIE XXX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121546
+PASSION XXX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121547
+REALITY KINGS TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121548
+BRAZZERS TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121549
+BRAZZERS TV EUROPE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121550
+BRAZZERS TV EUROPE UA HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121551
+HOT TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121552
+VENUS TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121553
+SEXTREME TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121554
+SEXY HOT HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121555
+MEIDEN VAN HOLLAND HARD HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121556
+EVIL ANGEL HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121557
+EROTIC 1 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121558
+EROTIC 2 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121559
+EROTIC 3 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121560
+EROTIC 4 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121561
+EROTIC 5 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121562
+EROTIC 6 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121563
+EROTIC 7 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121564
+EROTIC 8 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121565
+BANG U HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121566
+ШАЛУН TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121567
+ШЁЛК TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121568
+PLAYBOY HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121569
+PLAYBOY EUROPE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121570
+PLAYBOY EUROPE UA HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121571
+BLUE HUSTLER HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121572
+BLUE HUSTLER EUROPE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121573
+RUSSIAN NIGHT  HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121574
+BARELY LEGAL TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121575
+O LA LA TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121576
+FRENCH LOVER TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121577
+NUART TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121578
+EXXXOTICA TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121579
+SECRET CIRCLE TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121580
+LUST PUR TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121581
+BEATE-UHSE TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121582
+PURE BABES TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121583
+PINKO CLUB HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121584
+CENTO X CENTO HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121585
+DREAM PORN HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121586
+X-DREAM TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121587
+X-DREAM TV 2 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121588
+FREE X TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121589
+FREE X TV 2 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121590
+FREE X TV HQ HD,http://cineapp.org:8000/
 
