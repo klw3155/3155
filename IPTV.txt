@@ -1,42 +1,54 @@
 央视高清,#genre#
+CCTV-1综合,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV-1综合,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+CCTV-2财经,http://39.134.66.66/PLTV/88888888/224/3221225820/index.m3u8
 CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+CCTV-3综艺,http://39.134.66.66/PLTV/88888888/224/3221225799/index.m3u8
 CCTV-3综艺,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 CCTV-3综艺,https://iptv.luas.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/a75c405c16-0-0-dfdfc6539b46fbb9e1c885d1e280acc3/index.m3u8
 CCTV-3综艺,https://iptv.luas.edu.cn/liverespath/4112f13561cff5bd2be250480f4abed975bf48a1/a767505525-0-0-35fd26ebfef2ab441dec774c328c25b1/index.m3u8
 CCTV-4中文国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV-4中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV-4中文国际,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV-5体育,http://39.134.66.66/PLTV/88888888/224/3221225818/index.m3u8
 CCTV-5体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 CCTV-5体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-5+体育赛事,http://39.134.66.66/PLTV/88888888/224/3221225590/index.m3u8
 CCTV-5+体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV-5+体育赛事,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV-5+体育赛事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV-6电影,http://39.134.66.66/PLTV/88888888/224/3221225814/index.m3u8
 CCTV-6电影,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
 CCTV-6电影,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 CCTV-6电影,https://iptv.luas.edu.cn/liverespath/f2f39ee2105c85c32df375728a51b5d89d3afab4/276aad8446-0-0-b3a3ac2123ecbaddab4857b77c384584/index.m3u8
+CCTV-7国防军事,http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
 CCTV-7国防军事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
 CCTV-7国防军事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 CCTV-7国防军事,https://iptv.luas.edu.cn/liverespath/d9db906862f5d8d013735f7b27b97ff233fb15ac/96842517d9-0-0-be3431546a8c5da60453bffb3da55902/index.m3u8
+CCTV-8电视剧,http://39.134.66.66/PLTV/88888888/224/3221225795/index.m3u8
 CCTV-8电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV-8电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 CCTV-8电视剧,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+CCTV-9纪录,http://39.134.66.66/PLTV/88888888/224/3221225676/index.m3u8
 CCTV-9纪录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV-9纪录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 CCTV-9纪录,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV-10科教,http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
 CCTV-10科教,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV-10科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV-10科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
+CCTV-12社会与法,http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
 CCTV-12社会与法,http://111.59.63.32:9901/tsfile/live/1019_1.m3u8
 CCTV-12社会与法,https://iptv.luas.edu.cn/liverespath/c9edac5e53c8f301d094706617f302feb37f9592/77844bd73b-0-0-efe56a2d9baeb5086ef85d5f8033fa73/index.m3u8
 CCTV-13新闻,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV-13新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV-13新闻,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+CCTV-14少儿,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
 CCTV-14少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV-14少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 CCTV-14少儿,https://iptv.luas.edu.cn/liverespath/0e0973e58d4835f4b872548164462930003f77b4/6afcb195c8-0-0-53bd011e883748166483716a2b08f003/index.m3u8
@@ -51,6 +63,7 @@ CCTV-17农业农村,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 CCTV-16 4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+CCTV17农业农村 ,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 
 卫视高清,#genre#
 北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
@@ -229,6 +242,30 @@ NewTV精品大剧,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw281
 NewTV超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 NewTV超级综艺,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
 NewTV超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+NewTV东北热剧 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
+NewTV中国功夫 2.5M1080,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
+NewTV农业致富 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
+NewTV家庭剧场 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225682/index.m3u8
+NewTV惊悚悬疑 2.5M1080,http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
+NewTV武搏世界 2.5M1080,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
+NewTV潮妈辣婆 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
+NewTV炫舞未来 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
+NewTV爱情喜剧 2.5M1080,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+NewTV精品体育 2.5M1080,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+NewTV精品大剧 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
+NewTV精品纪录 2.5M1080,http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
+NewTV超级体育 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+NewTV超级电影 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+NewTV超级电视剧 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+NewTV超级综艺 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
+NewTV金牌综艺 2.5M1080,http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
+NewTV怡伴健康 2.5M1080,http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
+NewTV军事评论 2.5M1080,http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
+NewTV军旅剧场 2.5M1080,http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
+NewTV动作电影 2.5M1080,http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
+NewTV古装剧场 2.5M1080,http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
+NewTV家庭剧场 2.5M1080,http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
+NewTV明星大片 2.5M1080,http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
 
 咪咕体育直播,#genre#
 咪咕直播4K-1,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
@@ -275,71 +312,3 @@ NewTV超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.c
 咪咕直播-40,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
 咪咕直播-41,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 咪咕直播-42,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-
-123_18,#genre#
-HUSTLER HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121527
-REDLIGHT HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121528
-PRIVATE TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121529
-DORCEL HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121530
-DORCEL XXX  HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121531
-VIVID RED HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121532
-VIXEN HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121533
-EROX XXX  HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121534
-PENTHOUSE QUICKIES HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121535
-SUPER ONE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121536
-BABES TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121537
-XY PLUS HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121538
-XY MAX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121539
-XY MIX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121540
-VIVID TV EUROPE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121541
-VIVID TOUCH HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121542
-DUSK! HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121543
-HUSTLER TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121544
-XXL HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121545
-PASSIE XXX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121546
-PASSION XXX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121547
-REALITY KINGS TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121548
-BRAZZERS TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121549
-BRAZZERS TV EUROPE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121550
-BRAZZERS TV EUROPE UA HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121551
-HOT TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121552
-VENUS TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121553
-SEXTREME TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121554
-SEXY HOT HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121555
-MEIDEN VAN HOLLAND HARD HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121556
-EVIL ANGEL HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121557
-EROTIC 1 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121558
-EROTIC 2 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121559
-EROTIC 3 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121560
-EROTIC 4 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121561
-EROTIC 5 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121562
-EROTIC 6 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121563
-EROTIC 7 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121564
-EROTIC 8 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121565
-BANG U HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121566
-ШАЛУН TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121567
-ШЁЛК TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121568
-PLAYBOY HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121569
-PLAYBOY EUROPE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121570
-PLAYBOY EUROPE UA HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121571
-BLUE HUSTLER HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121572
-BLUE HUSTLER EUROPE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121573
-RUSSIAN NIGHT  HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121574
-BARELY LEGAL TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121575
-O LA LA TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121576
-FRENCH LOVER TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121577
-NUART TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121578
-EXXXOTICA TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121579
-SECRET CIRCLE TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121580
-LUST PUR TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121581
-BEATE-UHSE TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121582
-PURE BABES TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121583
-PINKO CLUB HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121584
-CENTO X CENTO HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121585
-DREAM PORN HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121586
-X-DREAM TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121587
-X-DREAM TV 2 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121588
-FREE X TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121589
-FREE X TV 2 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121590
-FREE X TV HQ HD,http://cineapp.org:8000/
-
