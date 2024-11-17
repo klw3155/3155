@@ -55,6 +55,14 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+哈尔滨娱乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225759/index.m3u8
+哈尔滨影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8
+哈尔滨生活,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225762/index.m3u8
+哈尔滨资讯,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
+七台河公共,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226006/index.m3u8
+七台河新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226003/index.m3u8
+鹤岗公共,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226004/index.m3u8
+鹤岗新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226001/index.m3u8
 
 NewTV频道,#genre#
 NewTV爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
