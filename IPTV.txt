@@ -105,3 +105,17 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 CETV4,http://139.129.231.228:3529/rtp/239.21.1.222:5002
 CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
+
+西藏卫视,http://121.33.239.242:9901/tsfile/live/0132_1.m3u8
+新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
+新疆卫视,http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
+新疆卫视,http://60.208.61.2:352/tsfile/live/0110_1.m3u8
+新疆卫视,http://123.138.22.30:9901/tsfile/live/0110_1.m3u8
+新疆卫视,http://123.138.22.30:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://139.129.231.228:3529/rtp/239.21.1.45:5002
+云南卫视,http://123.182.60.29:9002/hls/33/index.m3u8
+云南卫视,http://120.238.94.10:9901/tsfile/live/1069_1.m3u8
+云南卫视,http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
+云南卫视,http://183.136.148.214:9901/tsfile/live/0119_1.m3u8
+云南卫视,http://61.173.144.157:9901/tsfile/live/0119_1.m3u8
+云南卫视,http://61.173.144.157:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
